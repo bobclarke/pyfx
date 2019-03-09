@@ -1,0 +1,21 @@
+|ERROR|2019-02-16 23:03:48,229|Server reports an error: {'executed': False, 'error': 'No price stream for AUD/USD'}.
+|ERROR|2019-02-16 23:03:48,229|URL: https://api-demo.fxcm.com:443/subscribe
+|ERROR|2019-02-16 23:03:48,229|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer mWW9FMeJr_3FwkN1AAGHa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '15'}
+|ERROR|2019-02-16 23:03:48,229|Params: {'pairs': 'AUD/USD'}
+|ERROR|2019-02-16 23:03:48,229|Bearer token: Bearer mWW9FMeJr_3FwkN1AAGHa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d
+|ERROR|2019-02-16 23:03:48,229|Connection status: unset
+|ERROR|2019-02-16 23:03:48,230|Socket session id: mWW9FMeJr_3FwkN1AAGH
+|ERROR|2019-02-16 23:04:31,366|Server reports an error: {'executed': False, 'error': 'No price stream for AUD/USD'}.
+|ERROR|2019-02-16 23:04:31,367|URL: https://api-demo.fxcm.com:443/subscribe
+|ERROR|2019-02-16 23:04:31,367|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer wHJwBBuSSR3DaPSpAAGNa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '15'}
+|ERROR|2019-02-16 23:04:31,367|Params: {'pairs': 'AUD/USD'}
+|ERROR|2019-02-16 23:04:31,367|Bearer token: Bearer wHJwBBuSSR3DaPSpAAGNa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d
+|ERROR|2019-02-16 23:04:31,367|Connection status: established
+|ERROR|2019-02-16 23:04:31,367|Socket session id: wHJwBBuSSR3DaPSpAAGN
+|ERROR|2019-02-16 23:05:03,965|Server reports an error: {'executed': False, 'error': 'No price stream for EUR/USD'}.
+|ERROR|2019-02-16 23:05:03,965|URL: https://api-demo.fxcm.com:443/subscribe
+|ERROR|2019-02-16 23:05:03,965|Headers: {'User-Agent': 'request', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Authorization': 'Bearer wHJwBBuSSR3DaPSpAAGNa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '15'}
+|ERROR|2019-02-16 23:05:03,965|Params: {'pairs': 'EUR/USD'}
+|ERROR|2019-02-16 23:05:03,965|Bearer token: Bearer wHJwBBuSSR3DaPSpAAGNa2a3a4cf0621891c59e51d4d8ccf6c410b82da3d
+|ERROR|2019-02-16 23:05:03,965|Connection status: established
+|ERROR|2019-02-16 23:05:03,966|Socket session id: wHJwBBuSSR3DaPSpAAGN
